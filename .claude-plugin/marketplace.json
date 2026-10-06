@@ -1,0 +1,17 @@
+{
+  "name": "craft-pass",
+  "owner": {
+    "name": "Chris DiMarco",
+    "url": "https://github.com/ChrisJDiMarco"
+  },
+  "metadata": {
+    "description": "The craft-pass skill: a method for taking any interface to a mature, premium level of craft."
+  },
+  "plugins": [
+    {
+      "name": "craft-pass",
+      "source": "./",
+      "description": "Elevate any app or website to a mature, premium level of craft, grown out of the product itself."
+    }
+  ]
+}

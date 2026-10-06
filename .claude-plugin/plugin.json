@@ -1,0 +1,10 @@
+{
+  "name": "craft-pass",
+  "version": "1.0.0",
+  "description": "Elevate any app or website to a mature, premium level of craft: deep, atomic refinement of motion, color, continuity, loading, copy, feedback, input, edge states, accessibility, and performance, grown out of the product itself.",
+  "author": { "name": "Chris DiMarco", "url": "https://github.com/ChrisJDiMarco" },
+  "homepage": "https://github.com/ChrisJDiMarco/craft-pass",
+  "repository": "https://github.com/ChrisJDiMarco/craft-pass",
+  "license": "MIT",
+  "keywords": ["ui", "ux", "design", "motion", "polish", "accessibility", "skill"]
+}
